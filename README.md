@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=23&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Hi+there%2C+I%C2%B4m+bytelu.+Welcome!+%F0%9F%91%8B)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=23&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Nice+to+see+you+here+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=23&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=👋+Hi+there%2C+I%C2%B4m+bytelu.+Welcome!)](https://git.io/typing-svg)
 
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
