@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=23&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=👋+Hi+there%2C+I%C2%B4m+bytelu.+Welcome!)]([https://git.io/typing-svg](https://www.linkedin.com/in/luis-angel-hidalgo-hern%C3%A1ndez-062190222/))
 
-![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
+
 
 ```javascript
 const aboutMe = {
