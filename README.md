@@ -11,7 +11,7 @@ const aboutMe = {
       university: "National Polytechnic Institute",
       school: "ESIME Culhuacan",
       degree: "Computer Engineering",
-      graduationDate: "Winter: 2023",
+      graduationDate: "Febraury: 2024",
    },
    skills: {
       teamwork: ["★★★★"],
@@ -20,8 +20,8 @@ const aboutMe = {
       continuousLearning: ["★★★★★"],
    },
    interests: ["Open Source Projects", "Web Development", "Software Engineering", "Machine Learning"],
-   currentOccupation: ["Computer Engineering Student | Open for Job Opportunities"],
-   email: "lhidalhoh1900@añumno.ipn.mx",
+   currentOccupation: ["Computer Engineering | Open for Job Opportunities"],
+   email: "lhidalhoh1900@alumno.ipn.mx",
    about: {
       objetive: 
          ["My goal is to combine creativity with technical knowledge to create innovative and scalable
