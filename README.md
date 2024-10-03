@@ -4,7 +4,7 @@
 
 ```javascript
 const aboutMe = {
-   name: "Luis Hidalgo",
+   name: "Luis Angel Hidalgo Hernández",
    pronouns: "he" | "him",
    location: "México City, México",
    education: {
@@ -14,9 +14,9 @@ const aboutMe = {
       graduationDate: "Febraury: 2024",
    },
    skills: {
-      teamwork: ["★★★★"],
+      teamwork: ["★★★★★"],
       problemSolving: ["★★★★★"],
-      communication: ["★★★★"],
+      communication: ["★★★★★"],
       continuousLearning: ["★★★★★"],
    },
    interests: ["Open Source Projects", "Web Development", "Software Engineering", "Machine Learning"],
